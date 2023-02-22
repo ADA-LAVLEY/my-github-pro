@@ -1,0 +1,31 @@
+* {
+      margin: 0;
+      padding: 0;
+}
+
+a {
+      text-decoration: none;
+}
+
+header {
+      background-image: url(./joe-woods-4Zaq5xY5M_c-unsplash.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 100vh;
+
+}
+
+nav {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding-top: 30px;
+}
+
+ul,
+a {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      margin: 0px 25px;
+}
